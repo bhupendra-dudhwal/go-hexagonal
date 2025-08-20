@@ -28,7 +28,7 @@ require (
 	github.com/savsgio/gotils v0.0.0-20240704082632-aef3928b8a38 // indirect
 	github.com/valyala/bytebufferpool v1.0.0 // indirect
 	go.uber.org/multierr v1.10.0 // indirect
-	golang.org/x/crypto v0.31.0 // indirect
-	golang.org/x/sync v0.10.0 // indirect
-	golang.org/x/text v0.21.0 // indirect
+	golang.org/x/crypto v0.35.0 // indirect
+	golang.org/x/sync v0.11.0 // indirect
+	golang.org/x/text v0.22.0 // indirect
 )
